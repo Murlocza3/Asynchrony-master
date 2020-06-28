@@ -1,0 +1,13 @@
+C:\Users\Виктор\source\repos\Asynchrony\Asynchrony\bin\Debug\Asynchrony.exe.config
+C:\Users\Виктор\source\repos\Asynchrony\Asynchrony\bin\Debug\Asynchrony.exe
+C:\Users\Виктор\source\repos\Asynchrony\Asynchrony\bin\Debug\Asynchrony.pdb
+C:\Users\Виктор\source\repos\Asynchrony\Asynchrony\obj\Debug\Asynchrony.csprojAssemblyReference.cache
+C:\Users\Виктор\source\repos\Asynchrony\Asynchrony\obj\Debug\Asynchrony.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\source\repos\Asynchrony\Asynchrony\obj\Debug\Asynchrony.exe
+C:\Users\Виктор\source\repos\Asynchrony\Asynchrony\obj\Debug\Asynchrony.pdb
+C:\Users\Денис\Desktop\Asynchrony-master\Asynchrony\bin\Debug\Asynchrony.exe.config
+C:\Users\Денис\Desktop\Asynchrony-master\Asynchrony\bin\Debug\Asynchrony.exe
+C:\Users\Денис\Desktop\Asynchrony-master\Asynchrony\bin\Debug\Asynchrony.pdb
+C:\Users\Денис\Desktop\Asynchrony-master\Asynchrony\obj\Debug\Asynchrony.csprojAssemblyReference.cache
+C:\Users\Денис\Desktop\Asynchrony-master\Asynchrony\obj\Debug\Asynchrony.exe
+C:\Users\Денис\Desktop\Asynchrony-master\Asynchrony\obj\Debug\Asynchrony.pdb
